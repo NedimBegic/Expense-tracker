@@ -15,4 +15,4 @@ This is my first site using React. The main purpose of making it is to learn the
 https://expand-tracker.netlify.app/
 
 <h3>How it looks:</h3>
-<img src="https://i.ibb.co/Fznyccx/Expense-tracker.jpg"  width="1000" height="900">
+<img src="https://i.ibb.co/Fznyccx/Expense-tracker.jpg"  width="1000" height="900" object-fit: cover;>
